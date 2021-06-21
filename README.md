@@ -1,3 +1,5 @@
+### Access the full Project on Implementation of [Technology in Healthcare and Agriculture Sector here](https://github.com/mahaveer-rulaniya/healthify-agriTech)
+
 # Plant Disease Identification 
 *All the details regarding the this  Project are present here*
 
